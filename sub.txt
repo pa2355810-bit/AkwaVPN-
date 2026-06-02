@@ -1,0 +1,15 @@
+#profile-title: AkwaVPN💦
+#announce: Если впн не работает нажми 🔄
+#profile-update-interval: 1
+vless://# Ключи от AkwaVPN
+vless://ba1b1048-67aa-0032-9c42-63f81cfb1523@free-de-03.la-la-land.top:443?security=reality&encryption=none&pbk=uRuW2K9JNw64jgAVEdV39NMh_udtVD6xxEV-dQFATHY&headerType=none&fp=firefox&allowinsecure=0&type=tcp&sni=free-de-03.la-la-land.top#%F0%9F%87%A9%F0%9F%87%AA+%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+vless://bdf2d351-a9d0-4604-9613-a2d74a227763@5.42.98.216:443?security=reality&encryption=none&pbk=pCuxB_edEjjHHt_sYHEAEQyrX2L1VfDaQkPpnd78LAM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com#Швеция|игры
+vless://bdf2d351-a9d0-4604-9613-a2d74a227763@167.148.201.41:443?security=reality&encryption=none&pbk=fNfokzklCF4l_c8k8PciOCjm5ecNoF_sNLjEtaO-xzI&headerType=none&fp=firefox&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=db04ce8bdb8900f1#%F0%9F%87%BA%F0%9F%87%B8+%D0%A1%D0%A8%D0%90+%7C+%D0%94%D0%BB%D1%8F+%D0%98%D0%98+%F0%9F%A6%8B
+vless://bdf2d351-a9d0-4604-9613-a2d74a227763@62.152.58.117:443?security=reality&encryption=none&pbk=mfbp_NHe6Ssy3FW88WyATn48WRU1BHmqrK71h1N_32M&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=8f3a9d72c1e47ab9#%F0%9F%87%AA%F0%9F%87%BA+%F0%9F%8D%93+LTE+%7C+%D0%92%D1%81%D0%B5+%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B
+vless://cfb70000-ed61-4a7e-89a3-2b9c2caa6001@185.242.19.250:443?mode=auto&path=%2Flivestreamcontent%2F&security=tls&encryption=none&host=top3739667002.mwscdn.ru&allowinsecure=0&type=xhttp&sni=top3739667002.mwscdn.ru#Молдова|Соцсети
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDSm1UQ0N4N0x0dWQ=@108.181.58.239:8388#Нидерланды|YouTube
+vless://c5c55441-6b1d-4a44-aa35-da5a015e7df9@pla.tunnelguard.ru:443?mode=auto&path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMaxConcurrentPosts%22%3A100.0%2C%22scMinPostsIntervalMs%22%3A30.0%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22noGRPCHeader%22%3Afalse%7D&host=pla.tunnelguard.ru&fp=firefox&allowinsecure=0&type=xhttp&sni=pla.tunnelguard.ru#Польша|Соцсети
+hysteria2://1bf9c88b-1f99-47c3-ac39-cd0e4edac246@gr4.nimarko.org:443?security=tls&fm=%7B%7D&allowinsecure=0&sni=gr4.nimarko.org#Европа|Белые списки
+vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@144.31.243.61:443?security=reality&encryption=none&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru#Литва|Соцсети
+vless://1b2f5e04-82b5-4522-b3f7-c9d028dbb42c@2.26.115.178:443?security=reality&encryption=none&pbk=o2SrzDoX5tfMpju7B-RSxsb7eo6-hdV1vRFP8VA-dUA&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=www.ya.ru#Финляндия
+vless://7c1b70c2-2f63-11f1-bffe-46c4782ac1a7@31.130.155.93:2087?security=reality&encryption=none&pbk=72vSry0MUaXNZNjV_wt4wWLdXuI0HfIBvVhTrDWl8EU&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=vk.com&sid=b8e4f2a7d5c1903a#США остров Эпштейна
